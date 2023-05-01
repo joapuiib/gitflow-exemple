@@ -1,4 +1,5 @@
 # Exemple de GitFlow
+Versio: 0.1
 
 Aquest repositori és un exemple de com aplicar l'estratègia GitFlow.
 
